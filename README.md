@@ -4,7 +4,7 @@
 
 
 ## Getting Started
-![Cover](![Training kit](https://user-images.githubusercontent.com/49542070/125229007-24033200-e2d6-11eb-8ec8-38c098eed9b0.png))
+![Training kit](https://user-images.githubusercontent.com/49542070/125229007-24033200-e2d6-11eb-8ec8-38c098eed9b0.png)
 
 - ### Prerequisites
 You just need to install proteus 8 professional (8.9 is prefered)

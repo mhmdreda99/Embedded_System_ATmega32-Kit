@@ -16,7 +16,7 @@ You just need to install proteus 8 professional (8.9 is prefered)
  1-open the kit file using proteus \
  2-customize the pins and ports to be suitable to your project\
  3-put your .hex file on the MCU \
- 4-run it easily\
+ 4-run it easily
 
 
 ## Acknowledgments
